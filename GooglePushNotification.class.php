@@ -74,7 +74,7 @@ class GooglePushNotification {
 	}
 
 	/**
-	 * metoda pro přidání společných dat do odeslání zprávy např. čas
+	 * method for adding extra data to message
 	 * 
 	 * @param string $key
 	 * @param string $value
